@@ -6,6 +6,8 @@ I design visual identities, marketing materials and interfaces, and build person
 
 [Portfolio source and gallery](https://github.com/Mohamedmotaz/mohamed-almotaz-portfolio) · [Full CV](https://github.com/Mohamedmotaz/mohamed-almotaz-portfolio/blob/main/Mohamed_Almotaz_CV.pdf) · [Nursing CV](https://github.com/Mohamedmotaz/mohamed-almotaz-portfolio/blob/main/Mohamed_Almotaz_Nursing_CV.pdf) · [Design & Tech CV](https://github.com/Mohamedmotaz/mohamed-almotaz-portfolio/blob/main/Mohamed_Almotaz_Design_Tech_CV.pdf)
 
+[Visit my portfolio](https://mohamedmotaz.github.io/mohamed-almotaz-portfolio/)
+
 ## Selected projects
 
 ### Shift Planner
